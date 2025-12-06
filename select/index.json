@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "怪盗",
+  "base_artist": "back number",
+  "createdAt": "2025-12-06T08:05:36.514089Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "怪盗・窪園チヨコは絶対ミスらない",
+      "artist": "椎名もた",
+      "has_synced": true,
+      "path": "select/01_怪盗・窪園チヨコは絶対ミスらない_椎名もた.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "怪盗",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/02_怪盗_back_number.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "怪盗 - Phantom thief",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/03_怪盗_-_Phantom_thief_back_number.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "怪盗",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/04_怪盗_back_number.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "怪盗 - Phantom thief",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/05_怪盗_-_Phantom_thief_back_number.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "怪盗・窪園チヨコは絶対ミスらない（ASH ver）",
+      "artist": "椎名もた",
+      "has_synced": true,
+      "path": "select/06_怪盗・窪園チヨコは絶対ミスらない(ASH_ver)_椎名もた.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "怪盗",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/07_怪盗_back_number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "怪盗",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_怪盗_back_number.txt"
+    }
+  ]
+}
